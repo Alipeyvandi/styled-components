@@ -1,4 +1,4 @@
-# Calculator (React.js Vite)
+# single-page (React.js Vite)
 A simple single-page made by react.js . ui handle by styled-components
 
 ````bash
